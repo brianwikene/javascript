@@ -1,2 +1,2 @@
 # javascript
-some functions that I've tested
+some functions that I've written
